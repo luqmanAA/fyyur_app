@@ -1,0 +1,5 @@
+Babel==2.10.3
+python-dateutil==2.8.2
+Flask-Moment==1.0.4
+Flask-WTF==1.0.1
+Flask-SQLAlchemy==2.5.1
